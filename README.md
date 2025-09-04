@@ -11,15 +11,15 @@ A **Flask web application** to predict student math scores based on demographic 
 
 ## Table of Contents
 
-* [Project Overview]
-* [Libraries and Technologies]
-* [Project Structure](#project-structure)
-* [Features](#features)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Machine Learning Pipeline](#machine-learning-pipeline)
-* [Deployment on AWS Elastic Beanstalk](#deployment-on-aws-elastic-beanstalk)
-* [Author](#author)
+* Project Overview
+* Libraries and Technologies
+* Project Structure
+* Features
+* Installation
+* Usage
+* Machine Learning Pipeline
+* Deployment on AWS Elastic Beanstalk
+* Author
 
 ---
 
