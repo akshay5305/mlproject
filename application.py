@@ -2,6 +2,9 @@ import pickle
 from flask import Flask,request,render_template
 import numpy as np
 import pandas as pd
+import warnings
+from sklearn.exceptions import InconsistentVersionWarning
+warnings.filterwarnings("ignore", category=InconsistentVersionWarning)
 
 from sklearn.preprocessing import StandardScaler
 from src.pipeline.predict_pipeline import CustomData,PredictPipleine
