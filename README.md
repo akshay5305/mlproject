@@ -11,8 +11,8 @@ A **Flask web application** to predict student math scores based on demographic 
 
 ## Table of Contents
 
-* [Project Overview](#project-overview)
-* [Libraries and Technologies](#libraries-and-technologies)
+* [Project Overview]
+* [Libraries and Technologies]
 * [Project Structure](#project-structure)
 * [Features](#features)
 * [Installation](#installation)
