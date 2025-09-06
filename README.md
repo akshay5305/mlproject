@@ -1,6 +1,7 @@
 ## End to ENd ML project
-Perfect! Let’s make a **more detailed, modular README** that highlights everything you’ve done, including the ML pipeline, modular coding approach, and libraries used. Here's an improved version:
+Perfect! Let’s make a **more detailed, modular README** that highlights everything you’ve done, including the ML pipeline, modular coding approach, and libraries used.
 
+  Watch the working at : https://youtu.be/dLlDznzrWlU (AWS Codepipeline issues wrt to CD so had to host it locally)
 ---
 
 # Student Exam Performance Prediction
